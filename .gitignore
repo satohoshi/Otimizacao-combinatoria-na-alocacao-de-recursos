@@ -1,0 +1,53 @@
+# ---------------------------------------------------------------
+# Sistema / editor
+# ---------------------------------------------------------------
+.DS_Store
+.vscode/
+*.swp
+*.save
+
+# ---------------------------------------------------------------
+# Ambiente Python (recriar com: pip install -r requirements.txt)
+# ---------------------------------------------------------------
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# ---------------------------------------------------------------
+# Build C++
+# ---------------------------------------------------------------
+Projeto/build/
+cmake-build-*/
+*.o
+*.out
+compile_commands.json
+
+# ---------------------------------------------------------------
+# Bases de dados brutas (recriar com os scripts coletar_*.py)
+# ---------------------------------------------------------------
+Projeto/dados_brutos/
+Projeto/saida_yahoo/
+bases/saida_yahoo/
+
+# ---------------------------------------------------------------
+# Saídas geradas pelos scripts
+# ---------------------------------------------------------------
+Projeto/results/*
+!Projeto/results/.gitkeep
+graficos_resultados/
+graficos_para_orientador/
+tabelas_resultados/
+foto/
+
+# ---------------------------------------------------------------
+# Relatório (por enquanto fora do repositório)
+# ---------------------------------------------------------------
+Pesquisas/
+
+# ---------------------------------------------------------------
+# Notas e referências
+# ---------------------------------------------------------------
+Notas/
+Documentos/
+Projeto/Referencias/

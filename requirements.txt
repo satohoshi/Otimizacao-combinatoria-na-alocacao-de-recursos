@@ -1,0 +1,11 @@
+# Dependências Python do projeto (versões usadas no venv original)
+numpy==2.5.3
+pandas==3.0.6
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+yfinance==1.7.0
+requests==2.34.2
+# CPLEX (API Python) — requer licença/instalação do IBM ILOG CPLEX para instâncias grandes
+cplex==22.2.0.1
+docplex==2.32.264

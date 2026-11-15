@@ -1,0 +1,11 @@
+ticker,motivo
+ALSC3,histórico incompleto (22 pregões sem preço)
+BBSE3,histórico incompleto (572 pregões sem preço)
+IGTA3,histórico incompleto (741 pregões sem preço)
+KROT3,histórico incompleto (296 pregões sem preço)
+MGLU3,histórico incompleto (80 pregões sem preço)
+QUAL3,histórico incompleto (121 pregões sem preço)
+TIMP3,histórico incompleto (144 pregões sem preço)
+PCAR4,preço parado (98% dos retornos nulos)
+UGPA3,preço parado (25% dos retornos nulos)
+AMBV4,"correlação > 0,90 com ativo mais líquido"

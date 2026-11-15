@@ -1,0 +1,41 @@
+{
+  "t": "2014-01-02_b3",
+  "janela_inicio": "2011-01-04",
+  "janela_fim": "2013-12-30",
+  "n_pregoes": 740,
+  "n_universo": 99,
+  "n_excluidos": 12,
+  "N": 87,
+  "N_por_fonte": {
+    "yahoo": 63,
+    "b3": 24
+  },
+  "amostral": {
+    "psd": true,
+    "autovalor_min": 0.008089595372746419,
+    "autovalor_max": 3.6805773685823633,
+    "condicionamento": 454.9766952475902
+  },
+  "ledoit_wolf": {
+    "psd": true,
+    "autovalor_min": 0.012145430277357806,
+    "autovalor_max": 3.5790811605564254,
+    "condicionamento": 294.68541491105094,
+    "shrinkage": 0.02742700402445553
+  },
+  "mu_anual": {
+    "min": -0.9779311662322009,
+    "mediana": 0.050179899433351834,
+    "max": 0.3839022776966643
+  },
+  "vol_anual": {
+    "min": 0.22718710848732135,
+    "mediana": 0.3342036713781607,
+    "max": 1.0169852522845588
+  },
+  "eventos_extremos": {
+    "real": 21,
+    "reversao": 12,
+    "degrau": 1
+  }
+}
